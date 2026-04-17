@@ -35,11 +35,6 @@ This project analyzes housing data and builds machine learning models to predict
 ## 📊 Visualizations
 
 
-
-
-###  House Price Distribution
-![House Price Histogram](DataScienceProjects/HousePricePrediction/histogram_house_prices.png)
-
 ###  Income vs House Price
 ![Income vs Price](DataScienceProjects/HousePricePrediction/scatter_income_vs_price.png)
 
