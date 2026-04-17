@@ -34,11 +34,22 @@ This project analyzes housing data and builds machine learning models to predict
 
 ## 📊 Visualizations
 
+### 🔹 Actual vs Predicted
 ![Actual vs Predicted](images/actual_vs_predicted.png)
+
+### 🔹 Error Distribution
 ![Error Distribution](images/error_distribution.png)
+
+### 🔹 Feature Importance
 ![Feature Importance](images/feature_importance.png)
+
+### 🔹 Correlation Heatmap
 ![Correlation Heatmap](images/heatmap_correlation.png)
+
+### 🔹 House Price Distribution
 ![House Price Distribution](images/house_price_distribution.png)
+
+### 🔹 Income vs Price
 ![Income vs Price](images/income_vs_price_scatter.png)
 
 ---
